@@ -1,3 +1,4 @@
 def Dog
-  Dog.new == fido
+  fido = Dog.new
+  snoopy = Dog.new
 end
